@@ -33,6 +33,6 @@ pipeline {
                         app.push("latest")
                     }
                 }
-            }
+            
         }
 }
